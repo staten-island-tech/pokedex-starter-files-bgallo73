@@ -1,0 +1,28 @@
+{
+  "name": "pokedex-starter-files-bgallo73",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "start": "webpack-dev-server --mode development --open",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staten-island-tech/pokedex-starter-files-bgallo73.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/staten-island-tech/pokedex-starter-files-bgallo73/issues"
+  },
+  "homepage": "https://github.com/staten-island-tech/pokedex-starter-files-bgallo73#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-server": "^3.9.0"
+  }
+}
